@@ -43,7 +43,7 @@ body{
     overflow: hidden;
 }
 .hole .mole{
-    width: 70%;
+    width: 85%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
